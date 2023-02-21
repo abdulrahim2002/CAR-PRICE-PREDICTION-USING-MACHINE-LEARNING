@@ -12,19 +12,24 @@ RANDOM FOREST REGRESSION
 ## PERFORMANCE OF VARIOUS ALGORITHMS
 
 LINEAR REGRESSION
+
 ![image](https://user-images.githubusercontent.com/89011337/220379518-6fdf7e44-e715-4e8c-9571-7802b10558e3.png)
 
 REGRESSION PLOT
+
 ![image](https://user-images.githubusercontent.com/89011337/220379653-f2de71c2-479c-49c4-8930-f45bd2a7778e.png)
 
 
 POLYNOMIAL REGRESSION
+
 ![image](https://user-images.githubusercontent.com/89011337/220379820-cf12d46d-bdc1-4219-9dec-afd757a11cfa.png)
 
 DECISION TREE REGRESSION
+
 ![image](https://user-images.githubusercontent.com/89011337/220379909-f866a6b7-51ef-4f85-83d2-7b7530669557.png)
 
 RANDOM FOREST REGRESSION
+
 ![image](https://user-images.githubusercontent.com/89011337/220380168-a0d933e4-9734-4695-ba52-9a374ef94ffe.png)
 
 
@@ -43,4 +48,5 @@ MSE
 
 # EXPLANATION
 predict price of used car from its attributes such as Kms driven, Year, Fuel Type etc.
+
 ![image](https://user-images.githubusercontent.com/89011337/220378774-1e617468-6d63-4287-ab07-5d0585d93efe.png)
