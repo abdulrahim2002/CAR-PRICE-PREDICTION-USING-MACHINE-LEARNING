@@ -16,12 +16,15 @@ RANDOM FOREST REGRESSION
 ## GRAPHICAL COMPARISON
 
 R2 SCORE
+
 ![image](https://user-images.githubusercontent.com/89011337/220380410-13205346-068a-4312-81eb-88c8a8440492.png)
 
 MAE
+
 ![image](https://user-images.githubusercontent.com/89011337/220380484-2bfdc88e-235c-4ec7-a2a4-1b6124228b30.png)
 
 MSE
+
 ![image](https://user-images.githubusercontent.com/89011337/220380523-3d512c43-7402-4d36-bb1e-757219c4aa3b.png)
 
 
